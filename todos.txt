@@ -1,0 +1,6 @@
+bench 100
+bench 140
+eat
+meditate
+take tren
+order tren
